@@ -1,10 +1,10 @@
-# 📚 Projeto Minigames com Python 
+# 📚 Projeto Laboratório com Python 
 Este projeto tem como objetivo básicos estudos acadêmicos pessoais, foram utilizados tecnologias de:
 Python.
 
 ## Objetivos:
 - Exercitar conceitos básicos;
-- Trabalhar com arquivos diferentes que estão linkados e conectados;
+- Lógicas matemáticas e acentuação de resolução de problemas;
 - Uso de funções;
 - Estudar tecnologias e trabalhar mentalidade criativa.
 
@@ -28,6 +28,6 @@ Python.
 ---
 
 ### Lucas Lira
-Estudante em Engenharia de Computação na UFU e técnico de TI, amante de tecnologia e inovação, atualmente dedico meu tempo livre para estudar, onde meu principal foco é atuar no mercado backend com Java, Python.
+Estudante em Engenharia de Computação na UFU e técnico de TI, amante de tecnologia e inovação, atualmente no meu tempo livre estudo para mercado estágio backend com Java, Python.
 
 **voar o mais alto que puder**
